@@ -6,6 +6,7 @@ The project is a work in progress multi-player network version of the game Tetri
 architecture and deploy on muttiple platforms. A Server matches players in the sequence of starting game and game states are passed as Serialized Object to be displayed on individual player screens.
 
 TetrisApp.java - Tetris app
+
 TetrisServer - Tetris server
 
 ## screenshot
