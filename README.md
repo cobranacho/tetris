@@ -9,5 +9,8 @@ TetrisApp.java - Tetris app
 
 TetrisServer - Tetris server
 
+## gameplay video
+https://www.youtube.com/watch?v=F2CHThdTbJY&t=35s
+
 ## screenshot
 ![alt text](screenshot.jpg "Two Player network Tetris game")
