@@ -16,3 +16,5 @@ TetrisServer - Tetris server
 ## UML Class Diagram
 ![Tetris game UML Class Diagram](uml.png "Tetris game UML Class Diagram")
 
+## Tetriminos tiles encoding in Arrays
+(Tetris Array Explanation.pdf)
