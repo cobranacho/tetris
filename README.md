@@ -13,3 +13,6 @@ TetrisServer - Tetris server
 ## screenshot
 ![Two Player network Tetris game](screenshot.jpg "Two Player network Tetris game")
 
+## UML Class Diagram
+![Tetris game UML Class Diagram](uml.png "Tetris game UML Class Diagram")
+
